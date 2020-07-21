@@ -141,7 +141,7 @@ int HarryPotter::getInventorySize()
 }
 
 /******************************************************************************
-*Description: Places a new item into Harry’s inventory at the end of the deque.
+*Description: Places a new item into Harryâ€™s inventory at the end of the deque.
 *****************************************************************************/
 void HarryPotter::placeItemInInventory(int item)
 {
@@ -319,7 +319,7 @@ void HarryPotter::takeDamage(int dam)
 }
 
 /******************************************************************************
-*Description: returns Harry’s current health.
+*Description: returns Harryâ€™s current health.
 *****************************************************************************/
 int HarryPotter::getHealth()
 {
