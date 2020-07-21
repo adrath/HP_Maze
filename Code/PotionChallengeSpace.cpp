@@ -99,7 +99,7 @@ int PotionChallenge::roomMenu()
 	cout << "      Choose, unless you wish to stay here for evermore,\n";
 	cout << "   To help you in your choice, we give you these clues four:\n";
 	cout << "        First, however slyly the poison tries to hide\n";
-	cout << "     You will always find some on nettle wine’s left side;\n";
+	cout << "     You will always find some on nettle wineâ€™s left side;\n";
 	cout << "      Second, different are those who stand at either end,\n";
 	cout << "     But if you would move onwards, neither is your friend;\n";
 	cout << "       Third, as you see clearly, all are different size,\n";
