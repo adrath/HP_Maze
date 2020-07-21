@@ -104,7 +104,7 @@ int Space::roomMenu()
 /******************************************************************************
 *Description: Search the room for any items that may be around. There is a 
 *	random chance (70%) that the user will find an item such as food or drink 
-*	that they can either add to their inventory or not. If an item is ìfoundî 
+*	that they can either add to their inventory or not. If an item is ‚Äúfound‚Äù 
 *	then true is returned, otherwise false is returned.
 *****************************************************************************/
 bool Space::findItem()
