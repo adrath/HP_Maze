@@ -34,6 +34,7 @@ There are 4 options in every room:
 
 You must solve the puzzle for each of the rooms before you will be able to successfully complete the game.
 Example of Room Puzzle:
+
 <img src="./screenshots/potions_room.PNG">
 
 At the end of the game you have the option to play the game again or quit the program.
